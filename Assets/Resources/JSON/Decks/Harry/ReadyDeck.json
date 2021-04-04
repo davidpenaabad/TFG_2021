@@ -1,0 +1,238 @@
+﻿{
+    "cards": [
+        {
+            "ID":  "0001",
+            "cardName": "Soy el puto John Wayne",
+            "cardDescription": "Incrementa el porcentaje de los modificadores de puntería jugados durante el encuentro actual por 1.25x o por 1.5x si Harry emplea un arma corta.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "Wayne"
+        },
+        {
+            "ID": "0001",
+            "cardName": "Soy el puto John Wayne",
+            "cardDescription": "Incrementa el porcentaje de los modificadores de puntería jugados durante el encuentro actual por 1.25x o por 1.5x si Harry emplea un arma corta.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "Wayne"
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería base un 5%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": ""
+        },
+        {
+            "ID": "0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 4%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 4%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 4%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 4%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0004",
+            "cardName": "Tómate un respiro",
+            "cardDescription": "Incrementa el valor de las características del siguiente modificador por 3x.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0004",
+            "cardName": "Tómate un respiro",
+            "cardDescription": "Incrementa el valor de las características del siguiente modificador por 3x.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0005",
+            "cardName": "Esto te va a doler",
+            "cardDescription": "Aumenta en +2 el daño producido en el encuentro de puntería actual o en +5 si Harry emplea un arma corta.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0005",
+            "cardName": "Esto te va a doler",
+            "cardDescription": "Aumenta en +2 el daño producido en el encuentro de puntería actual o en +5 si Harry emplea un arma corta.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0006",
+            "cardName": "Recarga",
+            "cardDescription": "Descarta -1 modificador y roba +2 nuevos modificadores. Incrementa el porcentaje base de puntería o defensa un 2%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0006",
+            "cardName": "Recarga",
+            "cardDescription": "Descarta -1 modificador y roba +2 nuevos modificadores. Incrementa el porcentaje base de puntería o defensa un 2%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0007",
+            "cardName": "Culatazo",
+            "cardDescription": "Produce aturdimiento (1) a la criatura enemiga. Vulnerar.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0007",
+            "cardName": "Culatazo",
+            "cardDescription": "Produce aturdimiento (1) a la criatura enemiga. Vulnerar.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        },
+        {
+            "ID": "0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 3%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": ""
+        },
+        {
+            "ID": "0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 3%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": ""
+        },
+        {
+            "ID": "0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 3%.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": ""
+        },
+        {
+            "ID": "0009",
+            "cardName": "Esto no quedará así",
+            "cardDescription": "Produce 2 de daño al enemigo durante un encuentro de defensa si Harry esquiva el siguiente ataque.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": ""
+        },
+        {
+            "ID": "0009",
+            "cardName": "Esto no quedará así",
+            "cardDescription": "Produce 2 de daño al enemigo durante un encuentro de defensa si Harry esquiva el siguiente ataque.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": ""
+        },
+        {
+            "ID": "0010",
+            "cardName": "Rompo la baraja",
+            "cardDescription": "Pierde -1 ranura base del tipo de encuentro actual hasta el siguiente descanso. A cambio, vuelve a reanudar el encuentro actual.",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": ""
+        }
+    ]
+}
